@@ -1,4 +1,4 @@
-from manger import Manager,ReviewConfiguration
+from manager import Manager,ReviewConfiguration
 from persona_selector import PersonaSelectionCriteria
 from product import Product
 from summary_parser import Summary_parser
